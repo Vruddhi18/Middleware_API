@@ -6,7 +6,7 @@ This project provides a basic API for managing user data.
 
 * **User Management (CRUD):** Includes endpoints to create, read, update, and delete user records.
     * `GET /users`: List all users.
-    * `GET /users/:id`: Get a specific user.
+    * `GET /users/:id`: Get a specific user ID.
     * `POST /users`: Create a new user.
     * `PUT /users/:id`: Update an existing user.
     * `DELETE /users/:id`: Delete a user.
